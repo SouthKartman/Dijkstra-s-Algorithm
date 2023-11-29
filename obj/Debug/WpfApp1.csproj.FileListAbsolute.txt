@@ -1,0 +1,32 @@
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\App.g.cs
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\MainWindow.baml
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Пары\разработка мобильных приложений\практика xmarin\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\мвидео\Downloads\Dijtra\bin\Debug\WpfApp1.exe.config
+C:\Users\мвидео\Downloads\Dijtra\bin\Debug\WpfApp1.exe
+C:\Users\мвидео\Downloads\Dijtra\bin\Debug\WpfApp1.pdb
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\MainWindow.g.cs
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\App.g.cs
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\MainWindow.baml
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.g.resources
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.exe
+C:\Users\мвидео\Downloads\Dijtra\obj\Debug\WpfApp1.pdb
