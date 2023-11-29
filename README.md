@@ -55,6 +55,10 @@ Feel free to contribute to the development of this WPF application by opening is
 
 Enjoy navigating the shortest paths with the Dijkstra's Algorithm App for WPF!
 
+## Notes
+This application was created as a part of course on my colledge.
+
+
 <br><br>
 
 # Приложение «Алгоритм Дейкстры» — WPF
@@ -113,3 +117,6 @@ Enjoy navigating the shortest paths with the Dijkstra's Algorithm App for WPF!
 Не стесняйтесь внести свой вклад в разработку этого приложения WPF, открывая проблемы или отправляя запросы на включение.
 
 Наслаждайтесь навигацией по кратчайшим путям с помощью приложения «Алгоритм Дейкстры» для WPF!
+
+## Примечания
+Это приложение было создано в рамках курса моего колледжа.
